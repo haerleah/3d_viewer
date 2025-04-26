@@ -15,10 +15,10 @@ Run tests:\
 
 ## Examples:
 
-![Sword Model #1](misc/images/sword1.jpg)
+![Sword Model #1](misc/images/sword1.png)
 
-![Sword Model #2](misc/images/sword2.jpg)
+![Sword Model #2](misc/images/sword2.png)
 
-![Spider Model #1](misc/images/spider1.jpg)
+![Spider Model #1](misc/images/spider1.png)
 
-![Spider Model #2](misc/images/spider2.jpg)
+![Spider Model #2](misc/images/spider2.png)
